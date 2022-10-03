@@ -13,7 +13,7 @@ May the best player win! 👀
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/nibu-b-john/Dice-Game.git
 ```
 
 Paste the path to dice.html in browser to enjoy the game.
