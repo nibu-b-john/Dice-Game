@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+  color: #4ECCA3;
+  background-color: #393e46;
+}
+
+footer{
+  color: white;
+}
+
+h1{
+  font-size: 8rem;
+  margin: 10px auto 0 auto;
+  font-family: 'Lobster';
+}
+
+p{
+  font-size: 2.5rem;
+  font-family: 'indie flower';
+}
+
+button{
+ background-color: #393e46;
+ color: #4ECCA3;
+ cursor: pointer;
+ border: 3px solid #4ECCA3;
+ font-size: 30px;
+ font-family: 'Lobster';
+  width: 150px;
+  height: 50px;
+}
+
+.dice{
+  display: inline-block;
+  padding: 25.5px;
+}
